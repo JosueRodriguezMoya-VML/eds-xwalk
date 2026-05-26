@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://wppcloud-my.sharepoint.com/:f:/r/personal/josue_rodriguez_vml_com/Documents/eds-poc?csf=1&web=1&e=3kU8ie"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-xwalk/main"
     type: "markup"
     suffix: ".html"
