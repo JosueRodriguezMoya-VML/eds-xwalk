@@ -2,7 +2,7 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--eds-xwalk--josuerodriguezmoya-vml.aem.page//
+- Preview: https://main--eds-xwalk--josuerodriguezmoya-vml.aem.page/
 - Live: https://main--eds-xwalk--josuerodriguezmoya-vml.aem.live/
 
 ## Documentation
